@@ -3,6 +3,8 @@ It is a modern version of the classic Tic Tac Toe game, featuring Diamond (⟡) 
 
 [Try it out here!](https://mehendisil2004.github.io/Diamond_And_Heart/)
 
+![Screenshot 2024-12-27 212049](https://github.com/user-attachments/assets/f1e1d2ba-ca46-476e-879f-10e839e3d8e8)
+
 ### Features
 - Two-player gameplay: Enjoy a quick, fun game with a friend
 - Modern theme: Play with elegant Diamond (⟡) and Heart (♡) symbols
